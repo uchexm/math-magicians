@@ -69,23 +69,9 @@ After you're finished please remove all the comments and instructions!
   <ul>
     <li><a href="https://html.com/">HTML</a></li>
     <li><a href="https://www.free-css.com/">CSS</a></li>
-    <li><a href="https://www.React.com/">JAVASCRIPT</a></li>
+    <li><a href="https://reactjs.org/">REACT</a></li>
     <li><a href="https://webpack.js.org/">WEBPACK</a></li>
     <li><a href="https://jestjs.io/">JEST</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.tvmaze.com/api">TV MAZE</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.notion.so/Involvement-API-869e60b5ad104603aa6db59e08150270">NOTION</a></li>
   </ul>
 </details>
 
@@ -103,7 +89,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com:uchexm/math/)
+- [Live Demo Link](https://github.com/uchexm/math)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
