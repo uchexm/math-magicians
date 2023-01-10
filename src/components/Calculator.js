@@ -1,7 +1,7 @@
 import React from 'react';
 import './Calculator.css';
+import PropTypes from 'prop-types';
 
-/* eslint-disable*/
 class Calculator extends React.PureComponent {
   render() {
     return (
@@ -35,6 +35,12 @@ const Button = ({ value, id, className }) => (
   <input type="button" value={value} id={id} className={className} />
 );
 
+Button.propTypes = {
+  value: PropTypes.oneOfType([PropTypes.string, PropTypes.number]).isRequired,
+  id: PropTypes.string.isRequired,
+  // eslint-disable-next-line react/require-default-props
+  className: PropTypes.string,
+};
 const Display = () => <div className="num-input">0</div>;
 
 export default Calculator;
