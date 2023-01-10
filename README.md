@@ -114,7 +114,7 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 - `cd my-folder`
-- `git clone git@github.com:uchexm/math`
+- `git clone git@github.com:uchexm/math-magicians`
 
 ### Install
 
