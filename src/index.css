@@ -6,7 +6,6 @@ body {
   box-sizing: border-box;
   min-height: 100vh;
   font-family: 'Poppins', sans-serif;
-  background-image: linear-gradient(to bottom right, cornflowerblue, royalblue);
   color: #fff;
 }
 
@@ -15,7 +14,7 @@ section {
   justify-content: center;
   align-items: center;
   min-height: 80vh;
-  margin: 90px 0px 0px 0px;
+  margin: 90px 0 0 0;
 }
 
 header {
@@ -25,7 +24,6 @@ header {
   align-items: center;
   justify-content: space-around;
   flex-wrap: wrap;
-  background-color: royalblue;
   color: #fff;
   width: 100%;
 }
@@ -77,7 +75,7 @@ p {
   font-size: 1.1em;
 }
 
-/*.calculator {
+/* .calculator {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   border: 16px solid rgba(52, 61, 61, 0.5);
