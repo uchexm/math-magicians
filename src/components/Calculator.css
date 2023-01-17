@@ -11,10 +11,21 @@
   align-items: center;
   min-height: 100vh;
 }
+.cal {
+  display: inline-flex;
+  justify-content: space-between;
+  gap: 350px;
+  margin: 0 0 100px 0px;
+}
+h2 {
+  display: contents;
+}
 
 .container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  height: 500px;
+  width: 600px;
 }
 
 .num-input {

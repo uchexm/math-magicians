@@ -14,7 +14,7 @@ section {
   justify-content: center;
   align-items: center;
   min-height: 80vh;
-  margin: 90px 0 0 0;
+  margin: 20px 0 0 0;
 }
 
 header {
@@ -22,18 +22,21 @@ header {
   position: fixed;
   top: 0;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
   color: #fff;
   width: 100%;
 }
-
+h1 {
+  padding-left: 70px;
+}
 .navbar {
   list-style: none;
   display: flex;
   gap: 28px;
   flex-wrap: wrap;
   font-size: 1.3em;
+  padding-right: 80px;
 }
 
 a {
@@ -54,7 +57,7 @@ a:hover {
 }
 
 h2 {
-  text-align: center;
+  tex-align: center;
   font-size: 2.2em;
 }
 

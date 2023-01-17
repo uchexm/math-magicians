@@ -1,7 +1,7 @@
 const Home = () => (
   <section className="home-section">
     <div>
-      <h2>Welcome to Math Magicians!</h2>
+      <h2>Welcome to our page!</h2>
       <p>
         <strong>
           <a
