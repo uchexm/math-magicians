@@ -11,12 +11,14 @@
   align-items: center;
   min-height: 100vh;
 }
+
 .cal {
   display: inline-flex;
   justify-content: space-between;
   gap: 350px;
-  margin: 0 0 100px 0px;
+  margin: 0 0 100px 0;
 }
+
 h2 {
   display: contents;
 }
