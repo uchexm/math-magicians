@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Quotes = () => (
-  <div className="quotes">
+  <div className="quotes" placeholder="Quote">
     <h4>
       What is mathematics? It is only a systematic effort of solving puzzles
       posed by nature.
