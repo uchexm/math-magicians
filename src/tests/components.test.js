@@ -3,7 +3,7 @@ import React from 'react';
 import { render, screen } from '@testing-library/react';
 import Home from '../components/home';
 import Quote from '../components/qoute';
-import Calculator from '../components/calculator';
+import Calculator from '../components/Calculator';
 
 describe('tests for components', () => {
   test('Home should be in the document', () => {
